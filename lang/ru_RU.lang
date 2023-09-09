@@ -1,0 +1,30 @@
+btn.open=Открыть
+
+btn.convert=Конвертировать
+menu.language=Языки
+
+menu.credits=Авторы
+
+credits.head=Авторы
+
+credits.content1=Разработал Packled#7321
+credits.content2=Для VS сервера Arkona
+credits.content3=Скачано с https://www.arkonavs.ru
+
+fdialog.select=Выбор файла
+
+error.head=Ошибка
+
+error.content=Выберите файл!
+
+app.start=Начинаю конвертацию
+
+app.end=Завершено
+
+app.layer=Слой
+
+app.block=Блок
+
+app.complete=готов
+
+app.finalizing=Завершаю

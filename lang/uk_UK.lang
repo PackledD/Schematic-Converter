@@ -1,0 +1,17 @@
+btn.open=Відкрити
+btn.convert=Конвертувати
+menu.language=Мова
+menu.credits=Автори
+credits.head=Автори
+credits.content1=Розроблено Packled#7321
+credits.content2=Для сервера Arkona
+credits.content3=Завантажено з https://www.arkonavs.ru
+fdialog.select=Вибір файлу
+error.head=Помилка
+error.content=Виберіть файл!
+app.start=Розпочато конвертацію
+app.end=Завершено
+app.layer=Шар
+app.block=Блок
+app.complete=готовий
+app.finalizing=Завершення

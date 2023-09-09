@@ -1,0 +1,996 @@
+{
+	"1": {
+		"0": "rock-granite",
+		"1": "rock-bauxite",
+		"2": "rockpolished-bauxite",
+		"3": "rock-chalk",
+		"4": "rockpolished-chalk",
+		"5": "rock-andesite",
+		"6": "rockpolished-andesite"
+	},
+	"2": {
+		"*": "soil-medium-normal"
+	},
+	"3": {
+		"0": "soil-medium-none",
+		"1": "cob-none",
+		"2": "soil-high-sparse"
+	},
+	"4": {
+		"*": "cobblestone-granite"
+	},
+	"5": {
+		"0": "planks-oak-hor",
+		"1": "planks-pine-hor",
+		"2": "planks-birch-hor",
+		"3": "planks-kapok-hor",
+		"4": "planks-acacia-hor",
+		"5": "planks-ebony-hor"
+	},
+	"6": {
+		"0": "sapling-oak-free",
+		"1": "sapling-pine-free",
+		"2": "sapling-birch-free",
+		"3": "sapling-kapok-free",
+		"4": "sapling-acacia-free",
+		"5": "sapling-ebony-free"
+	},
+	"7": {
+		"*": "mantle"
+	},
+	"8": {
+		"*": "water-flow-7"
+	},
+	"9": {
+		"*": "water-still-7"
+	},
+	"10": {
+		"*": "lava-flow-7"
+	},
+	"11": {
+		"*": "lava-still-7"
+	},
+	"12": {
+		"0": "sand-sandstone",
+		"1": "sand-bauxite"
+	},
+	"13": {
+		"*": "gravel-granite"
+	},
+	"14": {
+		"*": "ore-medium-quartz_nativegold-granite"
+	},
+	"15": {
+		"*": "ore-medium-hematite-granite"
+	},
+	"16": {
+		"*": "ore-bituminouscoal-limestone"
+	},
+	"17": {
+		"0": "log-placed-oak-ud",
+		"1": "log-placed-pine-ud",
+		"2": "log-placed-birch-ud",
+		"3": "log-placed-kapok-ud",
+		"4": "log-placed-oak-we",
+		"5": "log-placed-pine-we",
+		"6": "log-placed-birch-we",
+		"7": "log-placed-kapok-we",
+		"8": "log-placed-oak-ns",
+		"9": "log-placed-pine-ns",
+		"10": "log-placed-birch-ns",
+		"11": "log-placed-kapok-ns"
+	},
+	"18": {
+		"0": "leavesbranchy-placed-oak",
+		"1": "leavesbranchy-placed-pine",
+		"2": "leavesbranchy-placed-birch",
+		"3": "leavesbranchy-placed-kapok",
+		"4": "leavesbranchy-placed-oak",
+		"5": "leavesbranchy-placed-pine",
+		"6": "leavesbranchy-placed-birch",
+		"7": "leavesbranchy-placed-kapok",
+		"8": "leavesbranchy-placed-oak",
+		"9": "leavesbranchy-placed-pine",
+		"10": "leavesbranchy-placed-birch",
+		"11": "leavesbranchy-placed-kapok",
+		"12": "leavesbranchy-placed-oak",
+		"13": "leavesbranchy-placed-pine",
+		"14": "leavesbranchy-placed-birch",
+		"15": "leavesbranchy-placed-kapok"
+	},
+	"19": {
+		"0": "creativeblock-36",
+		"1": "creativeblock-4"
+	},
+	"20": {
+		"*": "glass-plain"
+	},
+	"21": {
+		"*": "ore-lapislazuli-limestone"
+	},
+	"22": {
+		"*": "creativeblock-53"
+	},
+	"23": {
+		"*": "metalblock-steel"
+	},
+	"24": {
+		"0": "rock-sandstone",
+		"1": "cobblestone-sandstone",
+		"2": "rockpolished-sandstone"
+	},
+	"25": {
+		"*": "echochamber-north"
+	},
+	"26": {
+		"0": "bed-wood-feet-south",
+		"1": "bed-wood-feet-east",
+		"2": "bed-wood-feet-north",
+		"3": "bed-wood-feet-west",
+		"8": "bed-wood-head-south",
+		"9": "bed-wood-head-east",
+		"10": "bed-wood-head-north",
+		"11": "bed-wood-head-west"
+	},
+	"27": {
+		"0": "woodenrails-flat_ns",
+		"1": "woodenrails-flat_we"
+	},
+	"28": {
+		"0": "woodenrails-flat_ns",
+		"1": "woodenrails-flat_we"
+	},
+	"29": {
+		"*": "metalblock-steel"
+	},
+	"33": {
+		"*": "metalblock-steel"
+	},
+	"34": {
+		"*": "metalblock-steel"
+	},
+	"35": {
+		"0": "creativeblock-79",
+		"1": "creativeblock-34",
+		"2": "creativeblock-61",
+		"3": "creativeblock-48",
+		"4": "creativeblock-36",
+		"5": "creativeblock-40",
+		"6": "creativeblock-30",
+		"7": "creativeblock-70",
+		"8": "creativeblock-74",
+		"9": "creativeblock-17",
+		"10": "creativeblock-56",
+		"11": "creativeblock-52",
+		"12": "creativeblock-1",
+		"13": "creativeblock-12",
+		"14": "creativeblock-32",
+		"15": "creativeblock-64"
+	},
+	"41": {
+		"*": "metalblock-gold"
+	},
+	"42": {
+		"*": "metalblock-iron"
+	},
+	"43": {
+		"0": "rock-granite",
+		"1": "stonebricks-sandstone",
+		"2": "planks-oak-hor",
+		"3": "cobblestone-granite",
+		"4": "claybricks-red",
+		"5": "stonebricks-granite",
+		"6": "stonebricks-chert",
+		"7": "quartz-plain"
+	},
+	"44": {
+		"0": "polishedrockslab-granite-down-free",
+		"1": "cobblestoneslab-sandstone-down-free",
+		"2": "cobblestoneslab-sandstone-down-free",
+		"3": "cobblestoneslab-granite-down-free",
+		"4": "brickslabs-red-down-free",
+		"5": "stonebrickslab-granite-down-free",
+		"6": "polishedrockslab-chert-down-free",
+		"7": "quartzslab-down-free",
+		"8": "polishedrockslab-granite-up-free",
+		"9": "cobblestoneslab-sandstone-up-free",
+		"10": "cobblestoneslab-sandstone-up-free",
+		"11": "cobblestoneslab-granite-up-free",
+		"12": "brickslabs-red-up-free",
+		"13": "stonebrickslab-granite-up-free",
+		"14": "polishedrockslab-chert-up-free",
+		"15": "quartzslab-up-free"
+	},
+	"45": {
+		"*": "claybricks-red"
+	},
+	"46": {
+		"*": "oreblastingbomb"
+	},
+	"47": {
+		"*": "bookshelves-ns"
+	},
+	"48": {
+		"*": "cobbleskull-granite"
+	},
+	"49": {
+		"*": "rock-obsidian"
+	},
+	"50": {
+		"0": "torch-basic-lit-up",
+		"1": "torch-basic-lit-east",
+		"2": "torch-basic-lit-west",
+		"3": "torch-basic-lit-south",
+		"4": "torch-basic-lit-north",
+		"5": "torch-basic-lit-up"
+	},
+	"53": {
+		"0": "plankstairs-oak-up-east-free",
+		"1": "plankstairs-oak-up-west-free",
+		"2": "plankstairs-oak-up-south-free",
+		"3": "plankstairs-oak-up-north-free",
+		"4": "plankstairs-oak-down-east-free",
+		"5": "plankstairs-oak-down-west-free",
+		"6": "plankstairs-oak-down-south-free",
+		"7": "plankstairs-oak-down-north-free"
+	},
+	"54": {
+		"0": "chest-north",
+		"1": "chest-south",
+		"2": "chest-east",
+		"3": "chest-west"
+	},
+	"56": {
+		"*": "ore-medium-diamond-kimberlite"
+	},
+	"57": {
+		"*": "creativeglow-48"
+	},
+	"58": {
+		"*": "workbench-north"
+	},
+	"60": {
+		"*": "farmland-dry-medium"
+	},
+	"61": {
+		"2": "stove-unlit-north",
+		"3": "stove-unlit-south",
+		"4": "stove-unlit-east",
+		"5": "stove-unlit-west"
+	},
+	"62": {
+		"2": "stove-lit-north",
+		"3": "stove-lit-south",
+		"4": "stove-lit-east",
+		"5": "stove-lit-west"
+	},
+	"64": {
+		"0": "door-plank-east-down-closed-left",
+		"1": "door-plank-north-down-closed-right",
+		"2": "door-plank-west-down-closed-left",
+		"3": "door-plank-south-down-closed-right",
+		"4": "door-plank-east-down-open-left",
+		"5": "door-plank-north-down-open-right",
+		"6": "door-plank-west-down-open-left",
+		"7": "door-plank-south-down-open-right",
+		"8": "door-plank-east-up-closed-left",
+		"9": "door-plank-north-up-closed-right",
+		"10": "door-plank-west-up-closed-left",
+		"11": "door-plank-south-up-closed-right",
+		"12": "door-plank-east-up-open-left",
+		"13": "door-plank-north-up-open-right",
+		"14": "door-plank-west-up-open-left",
+		"15": "door-plank-south-up-open-right"
+	},
+	"65": {
+		"2": "ladder-wood-north",
+		"3": "ladder-wood-south",
+		"4": "ladder-wood-east",
+		"5": "ladder-wood-west"
+	},
+	"66": {
+		"0": "woodenrails-flat_ns",
+		"1": "woodenrails-flat_we"
+	},
+	"67": {
+		"0": "cobblestonestairs-granite-up-east-free",
+		"1": "cobblestonestairs-granite-up-west-free",
+		"2": "cobblestonestairs-granite-up-south-free",
+		"3": "cobblestonestairs-granite-up-north-free",
+		"4": "cobblestonestairs-granite-down-east-free",
+		"5": "cobblestonestairs-granite-down-west-free",
+		"6": "cobblestonestairs-granite-down-south-free",
+		"7": "cobblestonestairs-granite-down-north-free"
+	},
+	"68": {
+		"2": "sign-wall-north",
+		"3": "sign-wall-south",
+		"4": "sign-wall-east",
+		"5": "sign-wall-west"
+	},
+	"69": {
+		"0": "brake-east",
+		"1": "brake-east",
+		"2": "brake-west",
+		"3": "brake-south",
+		"4": "brake-north",
+		"5": "brake-north",
+		"6": "brake-west",
+		"7": "brake-south",
+		"8": "brake-east",
+		"9": "brake-east",
+		"10": "brake-west",
+		"11": "brake-south",
+		"12": "brake-north",
+		"13": "brake-north",
+		"14": "brake-west",
+		"15": "brake-south"
+	},
+	"70": {
+		"*": "floorplate-stone-up-north"
+	},
+	"72": {
+		"*": "floorplate-wood-up-north"
+	},
+	"73": {
+		"*": "ore-cinnabar-granite"
+	},
+	"76": {
+		"0": "torch-basic-lit-up",
+		"1": "torch-basic-lit-east",
+		"2": "torch-basic-lit-west",
+		"3": "torch-basic-lit-south",
+		"4": "torch-basic-lit-north",
+		"5": "torch-basic-lit-up"
+	},
+	"77": {
+		"*": "air"
+	},
+	"79": {
+		"*": "glacierice"
+	},
+	"80": {
+		"*": "snowblock"
+	},
+	"82": {
+		"*": "rawclay-blue-none"
+	},
+	"84": {
+		"*": "echochamber-north"
+	},
+	"85": {
+		"0": "woodenfence-oak-ew-free",
+		"1": "woodenfence-oak-ns-free",
+		"2": "woodenfence-oak-ew-free",
+		"3": "woodenfence-oak-ns-free"
+	},
+	"86": {
+		"*": "pumpkin-fruit-4"
+	},
+	"87": {
+		"*": "rock-chert"
+	},
+	"88": {
+		"*": "sand-chert"
+	},
+	"89": {
+		"*": "creativelight-36"
+	},
+	"91": {
+		"*": "pumpkin-fruit-4"
+	},
+	"95": {
+		"0": "glass-quartz",
+		"1": "glass-brown",
+		"2": "glass-pink",
+		"3": "glass-blue",
+		"4": "glass-yellow",
+		"5": "glass-green",
+		"6": "glass-pink",
+		"7": "glass-smoky",
+		"8": "glass-vintage",
+		"9": "glass-blue",
+		"10": "glass-pink",
+		"11": "glass-blue",
+		"12": "glass-brown",
+		"13": "glass-green",
+		"14": "glass-red",
+		"15": "glass-smoky"
+	},
+	"96": {
+		"0": "trapdoor-closed-up-north",
+		"1": "trapdoor-closed-up-south",
+		"2": "trapdoor-closed-up-west",
+		"3": "trapdoor-closed-up-east",
+		"4": "trapdoor-closed-down-north",
+		"5": "trapdoor-closed-down-south",
+		"6": "trapdoor-closed-down-west",
+		"7": "trapdoor-closed-down-east",
+		"8": "trapdoor-open-up-north",
+		"9": "trapdoor-open-up-south",
+		"10": "trapdoor-open-up-west",
+		"11": "trapdoor-open-up-east",
+		"12": "trapdoor-open-down-north",
+		"13": "trapdoor-open-down-south",
+		"14": "trapdoor-open-down-west",
+		"15": "trapdoor-open-down-east"
+	},
+	"98": {
+		"0": "stonebricks-granite",
+		"1": "stonebricks-granite",
+		"2": "stonebricks-granite",
+		"3": "cobbleskull-granite"
+	},
+	"102": {
+		"*": "glass-plain"
+	},
+	"103": {
+		"*": "pumpkin-fruit-4"
+	},
+	"107": {
+		"0": "woodenfencegate-oak-n-closed-left-free",
+		"1": "woodenfencegate-oak-n-closed-right-free",
+		"2": "woodenfencegate-oak-n-open-left-free",
+		"3": "woodenfencegate-oak-n-open-right-free"
+	},
+	"108": {
+		"0": "brickstairs-red-up-east-free",
+		"1": "brickstairs-red-up-west-free",
+		"2": "brickstairs-red-up-south-free",
+		"3": "brickstairs-red-up-north-free",
+		"4": "brickstairs-red-down-east-free",
+		"5": "brickstairs-red-down-west-free",
+		"6": "brickstairs-red-down-south-free",
+		"7": "brickstairs-red-down-north-free"
+	},
+	"109": {
+		"0": "stonebrickstairs-granite-up-east-free",
+		"1": "stonebrickstairs-granite-up-west-free",
+		"2": "stonebrickstairs-granite-up-south-free",
+		"3": "stonebrickstairs-granite-up-north-free",
+		"4": "stonebrickstairs-granite-down-east-free",
+		"5": "stonebrickstairs-granite-down-west-free",
+		"6": "stonebrickstairs-granite-down-south-free",
+		"7": "stonebrickstairs-granite-down-north-free"
+	},
+	"110": {
+		"*": "cob-normal"
+	},
+	"112": {
+		"*": "stonebricks-chert"
+	},
+	"114": {
+		"0": "stonebrickstairs-chert-up-east-free",
+		"1": "stonebrickstairs-chert-up-west-free",
+		"2": "stonebrickstairs-chert-up-south-free",
+		"3": "stonebrickstairs-chert-up-north-free",
+		"4": "stonebrickstairs-chert-down-east-free",
+		"5": "stonebrickstairs-chert-down-west-free",
+		"6": "stonebrickstairs-chert-down-south-free",
+		"7": "stonebrickstairs-chert-down-north-free"
+	},
+	"121": {
+		"*": "rock-limestone"
+	},
+	"123": {
+		"*": "paperlantern-off"
+	},
+	"124": {
+		"*": "paperlantern-on"
+	},
+	"126": {
+		"0": "plankslab-oak-down-free",
+		"1": "plankslab-pine-down-free",
+		"2": "plankslab-birch-down-free",
+		"3": "plankslab-kapok-down-free",
+		"4": "plankslab-acacia-down-free",
+		"5": "plankslab-ebony-down-free",
+		"8": "plankslab-oak-up-free",
+		"9": "plankslab-pine-up-free",
+		"10": "plankslab-birch-up-free",
+		"11": "plankslab-kapok-up-free",
+		"12": "plankslab-acacia-up-free",
+		"13": "plankslab-ebony-up-free"
+	},
+	"128": {
+		"0": "cobblestonestairs-sandstone-up-east-free",
+		"1": "cobblestonestairs-sandstone-up-west-free",
+		"2": "cobblestonestairs-sandstone-up-south-free",
+		"3": "cobblestonestairs-sandstone-up-north-free",
+		"4": "cobblestonestairs-sandstone-down-east-free",
+		"5": "cobblestonestairs-sandstone-down-west-free",
+		"6": "cobblestonestairs-sandstone-down-south-free",
+		"7": "cobblestonestairs-sandstone-down-north-free"
+	},
+	"129": {
+		"*": "ore-medium-emerald-phyllite"
+	},
+	"131": {
+		"*": "air"
+	},
+	"133": {
+		"*": "creativeglow-43"
+	},
+	"134": {
+		"0": "plankstairs-pine-up-east-free",
+		"1": "plankstairs-pine-up-west-free",
+		"2": "plankstairs-pine-up-south-free",
+		"3": "plankstairs-pine-up-north-free",
+		"4": "plankstairs-pine-down-east-free",
+		"5": "plankstairs-pine-down-west-free",
+		"6": "plankstairs-pine-down-south-free",
+		"7": "plankstairs-pine-down-north-free"
+	},
+	"135": {
+		"0": "plankstairs-birch-up-east-free",
+		"1": "plankstairs-birch-up-west-free",
+		"2": "plankstairs-birch-up-south-free",
+		"3": "plankstairs-birch-up-north-free",
+		"4": "plankstairs-birch-down-east-free",
+		"5": "plankstairs-birch-down-west-free",
+		"6": "plankstairs-birch-down-south-free",
+		"7": "plankstairs-birch-down-north-free"
+	},
+	"136": {
+		"0": "plankstairs-kapok-up-east-free",
+		"1": "plankstairs-kapok-up-west-free",
+		"2": "plankstairs-kapok-up-south-free",
+		"3": "plankstairs-kapok-up-north-free",
+		"4": "plankstairs-kapok-down-east-free",
+		"5": "plankstairs-kapok-down-west-free",
+		"6": "plankstairs-kapok-down-south-free",
+		"7": "plankstairs-kapok-down-north-free"
+	},
+	"138": {
+		"*": "paperlantern-on"
+	},
+	"139": {
+		"0": "drystonefence-granite-ew-free",
+		"1": "drystonefence-granite-ns-free",
+		"2": "drystonefence-granite-ew-free",
+		"3": "drystonefence-granite-ns-free"
+	},
+	"143": {
+		"*": "air"
+	},
+	"146": {
+		"0": "labeledchest-north",
+		"1": "labeledchest-south",
+		"2": "labeledchest-east",
+		"3": "labeledchest-west"
+	},
+	"147": {
+		"*": "floorplate-stone-up-north"
+	},
+	"148": {
+		"*": "floorplate-stone-up-north"
+	},
+	"151": {
+		"*": "omoktabletop"
+	},
+	"152": {
+		"*": "creativeglow-32"
+	},
+	"153": {
+		"*": "ore-quartz-granite"
+	},
+	"154": {
+		"*": "hopper"
+	},
+	"155": {
+		"0": "quartz-plain",
+		"1": "quartz-ornate",
+		"2": "quartzpillar-ud",
+		"3": "quartz-plain",
+		"4": "quartz-plain",
+		"5": "quartz-ornate",
+		"6": "quartzpillar-we",
+		"7": "quartz-plain",
+		"8": "quartz-plain",
+		"9": "quartz-ornate",
+		"10": "quartzpillar-ns",
+		"11": "quartz-plain"
+	},
+	"156": {
+		"0": "quartzstairs-up-east-free",
+		"1": "quartzstairs-up-west-free",
+		"2": "quartzstairs-up-south-free",
+		"3": "quartzstairs-up-north-free",
+		"4": "quartzstairs-down-east-free",
+		"5": "quartzstairs-down-west-free",
+		"6": "quartzstairs-down-south-free",
+		"7": "quartzstairs-down-north-free"
+	},
+	"157": {
+		"0": "woodenrails-flat_ns",
+		"1": "woodenrails-flat_we"
+	},
+	"158": {
+		"*": "metalblock-steel"
+	},
+	"159": {
+		"0": "creativeblock-79",
+		"1": "creativeblock-34",
+		"2": "creativeblock-61",
+		"3": "creativeblock-48",
+		"4": "creativeblock-36",
+		"5": "creativeblock-40",
+		"6": "creativeblock-30",
+		"7": "creativeblock-70",
+		"8": "creativeblock-74",
+		"9": "creativeblock-17",
+		"10": "creativeblock-56",
+		"11": "creativeblock-52",
+		"12": "creativeblock-1",
+		"13": "creativeblock-12",
+		"14": "creativeblock-32",
+		"15": "creativeblock-64"
+	},
+	"160": {
+		"0": "glass-quartz",
+		"1": "glass-brown",
+		"2": "glass-pink",
+		"3": "glass-blue",
+		"4": "glass-yellow",
+		"5": "glass-green",
+		"6": "glass-pink",
+		"7": "glass-smoky",
+		"8": "glass-vintage",
+		"9": "glass-blue",
+		"10": "glass-pink",
+		"11": "glass-blue",
+		"12": "glass-brown",
+		"13": "glass-green",
+		"14": "glass-red",
+		"15": "glass-smoky"
+	},
+	"162": {
+		"0": "log-placed-acacia-ud",
+		"1": "log-placed-ebony-ud",
+		"4": "log-placed-acacia-we",
+		"5": "log-placed-ebony-we",
+		"8": "log-placed-acacia-ns",
+		"9": "log-placed-ebony-ns"
+	},
+	"163": {
+		"0": "plankstairs-acacia-up-east-free",
+		"1": "plankstairs-acacia-up-west-free",
+		"2": "plankstairs-acacia-up-south-free",
+		"3": "plankstairs-acacia-up-north-free",
+		"4": "plankstairs-acacia-down-east-free",
+		"5": "plankstairs-acacia-down-west-free",
+		"6": "plankstairs-acacia-down-south-free",
+		"7": "plankstairs-acacia-down-north-free"
+	},
+	"164": {
+		"0": "plankstairs-ebony-up-east-free",
+		"1": "plankstairs-ebony-up-west-free",
+		"2": "plankstairs-ebony-up-south-free",
+		"3": "plankstairs-ebony-up-north-free",
+		"4": "plankstairs-ebony-down-east-free",
+		"5": "plankstairs-ebony-down-west-free",
+		"6": "plankstairs-ebony-down-south-free",
+		"7": "plankstairs-ebony-down-north-free"
+	},
+	"167": {
+		"0": "trapdoor-closed-up-north",
+		"1": "trapdoor-closed-up-south",
+		"2": "trapdoor-closed-up-west",
+		"3": "trapdoor-closed-up-east",
+		"4": "trapdoor-closed-down-north",
+		"5": "trapdoor-closed-down-south",
+		"6": "trapdoor-closed-down-west",
+		"7": "trapdoor-closed-down-east",
+		"8": "trapdoor-open-up-north",
+		"9": "trapdoor-open-up-south",
+		"10": "trapdoor-open-up-west",
+		"11": "trapdoor-open-up-east",
+		"12": "trapdoor-open-down-north",
+		"13": "trapdoor-open-down-south",
+		"14": "trapdoor-open-down-west",
+		"15": "trapdoor-open-down-east"
+	},
+	"168": {
+		"0": "creativeblock-49",
+		"1": "creativeblock-50",
+		"2": "creativeblock-19"
+	},
+	"169": {
+		"*": "creativelight-50"
+	},
+	"170": {
+		"*": "hay-normal"
+	},
+	"172": {
+		"*": "hardenedclay-red"
+	},
+	"173": {
+		"*": "creativelight-65"
+	},
+	"174": {
+		"*": "glacierice"
+	},
+	"179": {
+		"0": "rock-bauxite",
+		"1": "cobblestone-bauxite",
+		"2": "rockpolished-bauxite"
+	},
+	"180": {
+		"0": "cobblestonestairs-bauxite-up-east-free",
+		"1": "cobblestonestairs-bauxite-up-west-free",
+		"2": "cobblestonestairs-bauxite-up-south-free",
+		"3": "cobblestonestairs-bauxite-up-north-free",
+		"4": "cobblestonestairs-bauxite-down-east-free",
+		"5": "cobblestonestairs-bauxite-down-west-free",
+		"6": "cobblestonestairs-bauxite-down-south-free",
+		"7": "cobblestonestairs-bauxite-down-north-free"
+	},
+	"182": {
+		"0": "polishedrockslab-bauxite-down-free",
+		"8": "polishedrockslab-bauxite-up-free"
+	},
+	"183": {
+		"0": "woodenfencegate-pine-n-closed-left-free",
+		"1": "woodenfencegate-pine-n-closed-right-free",
+		"2": "woodenfencegate-pine-n-open-left-free",
+		"3": "woodenfencegate-pine-n-open-right-free"
+	},
+	"184": {
+		"0": "woodenfencegate-birch-n-closed-left-free",
+		"1": "woodenfencegate-birch-n-closed-right-free",
+		"2": "woodenfencegate-birch-n-open-left-free",
+		"3": "woodenfencegate-birch-n-open-right-free"
+	},
+	"185": {
+		"0": "woodenfencegate-kapok-n-closed-left-free",
+		"1": "woodenfencegate-kapok-n-closed-right-free",
+		"2": "woodenfencegate-kapok-n-open-left-free",
+		"3": "woodenfencegate-kapok-n-open-right-free"
+	},
+	"186": {
+		"0": "woodenfencegate-ebony-n-closed-left-free",
+		"1": "woodenfencegate-ebony-n-closed-right-free",
+		"2": "woodenfencegate-ebony-n-open-left-free",
+		"3": "woodenfencegate-ebony-n-open-right-free"
+	},
+	"187": {
+		"0": "woodenfencegate-acacia-n-closed-left-free",
+		"1": "woodenfencegate-acacia-n-closed-right-free",
+		"2": "woodenfencegate-acacia-n-open-left-free",
+		"3": "woodenfencegate-acacia-n-open-right-free"
+	},
+	"188": {
+		"0": "woodenfence-pine-ew-free",
+		"1": "woodenfence-pine-ns-free",
+		"2": "woodenfence-pine-ew-free",
+		"3": "woodenfence-pine-ns-free"
+	},
+	"189": {
+		"0": "woodenfence-birch-ew-free",
+		"1": "woodenfence-birch-ns-free",
+		"2": "woodenfence-birch-ew-free",
+		"3": "woodenfence-birch-ns-free"
+	},
+	"190": {
+		"0": "woodenfence-kapok-ew-free",
+		"1": "woodenfence-kapok-ns-free",
+		"2": "woodenfence-kapok-ew-free",
+		"3": "woodenfence-kapok-ns-free"
+	},
+	"191": {
+		"0": "woodenfence-ebony-ew-free",
+		"1": "woodenfence-ebony-ns-free",
+		"2": "woodenfence-ebony-ew-free",
+		"3": "woodenfence-ebony-ns-free"
+	},
+	"192": {
+		"0": "woodenfence-acacia-ew-free",
+		"1": "woodenfence-acacia-ns-free",
+		"2": "woodenfence-acacia-ew-free",
+		"3": "woodenfence-acacia-ns-free"
+	},
+	"201": {
+		"*": "creativeblock-59"
+	},
+	"202": {
+		"*": "creativeblock-59"
+	},
+	"203": {
+		"*": "air"
+	},
+	"205": {
+		"*": "air"
+	},
+	"206": {
+		"*": "stonebricks-limestone"
+	},
+	"213": {
+		"*": "ember"
+	},
+	"214": {
+		"*": "creativeblock-32"
+	},
+	"215": {
+		"*": "creativeblock-31"
+	},
+	"216": {
+		"*": "creativeblock-78"
+	},
+	"218": {
+		"*": "metalblock-steel"
+	},
+	"251": {
+		"0": "creativeblock-79",
+		"1": "creativeblock-34",
+		"2": "creativeblock-61",
+		"3": "creativeblock-48",
+		"4": "creativeblock-36",
+		"5": "creativeblock-40",
+		"6": "creativeblock-30",
+		"7": "creativeblock-70",
+		"8": "creativeblock-74",
+		"9": "creativeblock-17",
+		"10": "creativeblock-56",
+		"11": "creativeblock-52",
+		"12": "creativeblock-1",
+		"13": "creativeblock-12",
+		"14": "creativeblock-32",
+		"15": "creativeblock-64"
+	},
+	"252": {
+		"0": "creativeblock-79",
+		"1": "creativeblock-34",
+		"2": "creativeblock-61",
+		"3": "creativeblock-48",
+		"4": "creativeblock-36",
+		"5": "creativeblock-40",
+		"6": "creativeblock-30",
+		"7": "creativeblock-70",
+		"8": "creativeblock-74",
+		"9": "creativeblock-17",
+		"10": "creativeblock-56",
+		"11": "creativeblock-52",
+		"12": "creativeblock-1",
+		"13": "creativeblock-12",
+		"14": "creativeblock-32",
+		"15": "creativeblock-64"
+	},
+	"324": {
+		"0": "door-plank-east-down-closed-left",
+		"1": "door-plank-north-down-closed-left",
+		"2": "door-plank-west-down-closed-left",
+		"3": "door-plank-south-down-closed-left",
+		"4": "door-plank-east-down-open-left",
+		"5": "door-plank-north-down-open-left",
+		"6": "door-plank-west-down-open-left",
+		"7": "door-plank-south-down-open-left",
+		"8": "door-plank-east-up-closed-left",
+		"9": "door-plank-north-up-closed-right",
+		"10": "door-plank-west-up-closed-left",
+		"11": "door-plank-south-up-closed-right",
+		"12": "door-plank-east-up-open-left",
+		"13": "door-plank-north-up-open-right",
+		"14": "door-plank-west-up-open-left",
+		"15": "door-plank-south-up-open-right"
+	},
+	"330": {
+		"0": "irondoor-east-down-closed-left",
+		"1": "irondoor-north-down-closed-left",
+		"2": "irondoor-west-down-closed-left",
+		"3": "irondoor-south-down-closed-left",
+		"4": "irondoor-east-down-open-left",
+		"5": "irondoor-north-down-open-left",
+		"6": "irondoor-west-down-open-left",
+		"7": "irondoor-south-down-open-left",
+		"8": "irondoor-east-up-closed-left",
+		"9": "irondoor-north-up-closed-right",
+		"10": "irondoor-west-up-closed-left",
+		"11": "irondoor-south-up-closed-right",
+		"12": "irondoor-east-up-open-left",
+		"13": "irondoor-north-up-open-right",
+		"14": "irondoor-west-up-open-left",
+		"15": "irondoor-south-up-open-right"
+	},
+	"331": {
+		"*": "air"
+	},
+	"354": {
+		"*": "pineapple"
+	},
+	"356": {
+		"*": "air"
+	},
+	"404": {
+		"*": "air"
+	},
+	"427": {
+		"0": "door-plank-east-down-closed-left",
+		"1": "door-plank-north-down-closed-left",
+		"2": "door-plank-west-down-closed-left",
+		"3": "door-plank-south-down-closed-left",
+		"4": "door-plank-east-down-open-left",
+		"5": "door-plank-north-down-open-left",
+		"6": "door-plank-west-down-open-left",
+		"7": "door-plank-south-down-open-left",
+		"8": "door-plank-east-up-closed-left",
+		"9": "door-plank-north-up-closed-right",
+		"10": "door-plank-west-up-closed-left",
+		"11": "door-plank-south-up-closed-right",
+		"12": "door-plank-east-up-open-left",
+		"13": "door-plank-north-up-open-right",
+		"14": "door-plank-west-up-open-left",
+		"15": "door-plank-south-up-open-right"
+	},
+	"428": {
+		"0": "door-plank-east-down-closed-left",
+		"1": "door-plank-north-down-closed-left",
+		"2": "door-plank-west-down-closed-left",
+		"3": "door-plank-south-down-closed-left",
+		"4": "door-plank-east-down-open-left",
+		"5": "door-plank-north-down-open-left",
+		"6": "door-plank-west-down-open-left",
+		"7": "door-plank-south-down-open-left",
+		"8": "door-plank-east-up-closed-left",
+		"9": "door-plank-north-up-closed-right",
+		"10": "door-plank-west-up-closed-left",
+		"11": "door-plank-south-up-closed-right",
+		"12": "door-plank-east-up-open-left",
+		"13": "door-plank-north-up-open-right",
+		"14": "door-plank-west-up-open-left",
+		"15": "door-plank-south-up-open-right"
+	},
+	"429": {
+		"0": "door-plank-east-down-closed-left",
+		"1": "door-plank-north-down-closed-left",
+		"2": "door-plank-west-down-closed-left",
+		"3": "door-plank-south-down-closed-left",
+		"4": "door-plank-east-down-open-left",
+		"5": "door-plank-north-down-open-left",
+		"6": "door-plank-west-down-open-left",
+		"7": "door-plank-south-down-open-left",
+		"8": "door-plank-east-up-closed-left",
+		"9": "door-plank-north-up-closed-right",
+		"10": "door-plank-west-up-closed-left",
+		"11": "door-plank-south-up-closed-right",
+		"12": "door-plank-east-up-open-left",
+		"13": "door-plank-north-up-open-right",
+		"14": "door-plank-west-up-open-left",
+		"15": "door-plank-south-up-open-right"
+	},
+	"430": {
+		"0": "door-plank-east-down-closed-left",
+		"1": "door-plank-north-down-closed-left",
+		"2": "door-plank-west-down-closed-left",
+		"3": "door-plank-south-down-closed-left",
+		"4": "door-plank-east-down-open-left",
+		"5": "door-plank-north-down-open-left",
+		"6": "door-plank-west-down-open-left",
+		"7": "door-plank-south-down-open-left",
+		"8": "door-plank-east-up-closed-left",
+		"9": "door-plank-north-up-closed-right",
+		"10": "door-plank-west-up-closed-left",
+		"11": "door-plank-south-up-closed-right",
+		"12": "door-plank-east-up-open-left",
+		"13": "door-plank-north-up-open-right",
+		"14": "door-plank-west-up-open-left",
+		"15": "door-plank-south-up-open-right"
+	},
+	"431": {
+		"0": "door-plank-east-down-closed-left",
+		"1": "door-plank-north-down-closed-left",
+		"2": "door-plank-west-down-closed-left",
+		"3": "door-plank-south-down-closed-left",
+		"4": "door-plank-east-down-open-left",
+		"5": "door-plank-north-down-open-left",
+		"6": "door-plank-west-down-open-left",
+		"7": "door-plank-south-down-open-left",
+		"8": "door-plank-east-up-closed-left",
+		"9": "door-plank-north-up-closed-right",
+		"10": "door-plank-west-up-closed-left",
+		"11": "door-plank-south-up-closed-right",
+		"12": "door-plank-east-up-open-left",
+		"13": "door-plank-north-up-open-right",
+		"14": "door-plank-west-up-open-left",
+		"15": "door-plank-south-up-open-right"
+	}
+}
